@@ -1,6 +1,6 @@
 {
   "name": "necdetiye-crypto",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This is a light liblary for encrypting or hashing texts without any dependency.",
   "main": "encryption.js",
   "scripts": {
