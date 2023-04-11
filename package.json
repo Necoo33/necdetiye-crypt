@@ -1,0 +1,19 @@
+{
+  "name": "necdetiye-crypt",
+  "version": "0.1.0",
+  "description": "This is a light liblary for encrypting or hashing texts without any dependency.",
+  "main": "encryption.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "necdetiye",
+    "crypt",
+    "crypto",
+    "encryption",
+    "decryption",
+    "hash"
+  ],
+  "author": "Necdet Arda Etiman",
+  "license": "MIT"
+}
