@@ -18,10 +18,10 @@ this variables returns the crypted gibberish string.
 The decryption functions also have same synthax:
 
 ```javascript
-let decrypted1 = decrypt1(encrypt1, "this is a sample key");
-let decrypted2 = decrypt2(encrypt2, "this is a sample key");
-let decrypted3 = decrypt3(encrypt3, "this is a sample key");
-let decrypted4 = decrypt4(encrypt4, "this is a sample key");
+let decrypted1 = decrypt1(encrypted1, "this is a sample key");
+let decrypted2 = decrypt2(encrypted2, "this is a sample key");
+let decrypted3 = decrypt3(encrypted3, "this is a sample key");
+let decrypted4 = decrypt4(encrypted4, "this is a sample key");
 ```
 
 The first parameter is have to be text. It can have unlimited range of characters.
