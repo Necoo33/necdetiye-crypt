@@ -1,5 +1,3 @@
-let { Buffer } = require("node:buffer");
-
 // ------------------------------ Encryption-Decryption Way 1 -----------------------------------------------
 
 function encrypt1(encryptTarget, key = 0) {
